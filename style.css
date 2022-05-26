@@ -15,7 +15,7 @@ body {
     border-radius: 5px;
 }
 
-.calculator input {
+#display {
     background: none;
     border: none;
     box-shadow: none;
@@ -36,7 +36,7 @@ body {
 
 }
 
-.calc-button {
+.button {
     background: rgb(0, 0, 0, 0.5);
     border: 1px solid black;
     padding: 20px;
