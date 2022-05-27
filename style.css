@@ -46,6 +46,18 @@ body {
     cursor: pointer;
 }
 
+.button .is-clear:hover {
+    color: beige;
+    background-color: blue;
+    transition: 0,5s ease-in-out;
+}
+
+.button:hover {
+    color: beige;
+    background-color: black;
+    transition: 0,5s ease-in-out;
+}
+
 .is-clear,
 .is-zero {
     grid-column: span 3;
